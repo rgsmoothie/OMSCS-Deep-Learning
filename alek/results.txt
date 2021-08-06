@@ -1,0 +1,58 @@
+Epoch 0
+---------------
+Training Loss:: 2.4266 Acc: 0.4075
+Validation Loss:: 0.8618 Acc: 0.8067
+
+Epoch 1
+---------------
+Training Loss:: 0.6848 Acc: 0.8142
+Validation Loss:: 0.7665 Acc: 0.8084
+
+Epoch 2
+---------------
+Training Loss:: 0.3424 Acc: 0.9088
+Validation Loss:: 0.1332 Acc: 0.9803
+
+Epoch 3
+---------------
+Training Loss:: 0.2162 Acc: 0.9432
+Validation Loss:: 0.0867 Acc: 0.9839
+
+Epoch 4
+---------------
+Training Loss:: 0.1597 Acc: 0.9572
+Validation Loss:: 0.4382 Acc: 0.8944
+
+Epoch 5
+---------------
+Training Loss:: 0.1205 Acc: 0.9695
+Validation Loss:: 0.0474 Acc: 0.9897
+
+Epoch 6
+---------------
+Training Loss:: 0.1017 Acc: 0.9745
+Validation Loss:: 0.0904 Acc: 0.9681
+
+Epoch 7
+---------------
+Training Loss:: 0.0740 Acc: 0.9834
+Validation Loss:: 0.0202 Acc: 0.9993
+
+Epoch 8
+---------------
+Training Loss:: 0.0665 Acc: 0.9863
+Validation Loss:: 0.0191 Acc: 0.9994
+
+Epoch 9
+---------------
+Training Loss:: 0.0685 Acc: 0.9844
+Validation Loss:: 0.0185 Acc: 0.9988
+
+Epoch 10
+---------------
+Training Loss:: 0.0645 Acc: 0.9862
+Validation Loss:: 0.0175 Acc: 0.9995
+
+
+Training complete in 21m 44s
+Best validation Acc: 0.9995
